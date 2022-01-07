@@ -11,6 +11,7 @@ namespace ProGitForProgrammers
             Console.WriteLine("I just added this in the command line repo");
             Console.WriteLine("This line added to show the staging area");
             Console.WriteLine("Codigo agregado por el programador 2, la idea es genera un merge conflict");
+            Console.WriteLine("Cambio realizado por programmer 2 desde la rama Calculator");
         }
     }
 }
