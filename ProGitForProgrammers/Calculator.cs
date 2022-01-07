@@ -6,6 +6,10 @@ namespace ProGitForProgrammers
         {
             return left + right;
         }
+        public decimal Add(decimal left, decimal right)
+        {
+            return left + right;
+        }
         public int Subtract(int left, int right)
         {
             return left - right;
