@@ -10,5 +10,9 @@ namespace ProGitForProgrammers
         {
             return left - right;
         }
+        public int Multiply(int left, int right)
+        {
+            return left * right;
+        }
     }
 }
